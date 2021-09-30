@@ -1,3 +1,6 @@
+#adding config to not upload username and password
+config.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
